@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning on solving actual real world problem in our most beloved programming language, JavaScript
+- 📫 How to reach me: mail me at hifzon@proton.me github wont let me put that on the email section.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i don't know
