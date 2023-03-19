@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning on solving actual real world problem in our most beloved programming language, JavaScript
-- 📫 How to reach me: mail me at hifzon@proton.me github wont let me put that on the email section.
+- 📫 How to reach me: mail me at hifzon@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't know
